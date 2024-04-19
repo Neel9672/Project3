@@ -1,0 +1,19 @@
+<?xml version="1.0" encodintitg="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/new_note"
+        android:icon="@mipmap/ic_launcher"
+        android:title="New Note"></item>
+    <item
+        android:id="@+id/save_note"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Save Note"></item>
+
+    <item
+        android:id="@+id/free_note"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Free Note"></item>
+
+
+
+</menu>
